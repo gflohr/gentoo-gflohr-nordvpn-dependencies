@@ -1,2 +1,4 @@
 # gentoo-gflohr-nordvpn-dependencies
-Dependencies for the nordvpn ebuild
+
+This repository only exists to host the dependencies of my nordvpn rebuild.
+
